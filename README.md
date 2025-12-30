@@ -3,6 +3,8 @@ An Overlay of Discord Voice Chat using Customizable Avatars for Streamers.
 
 It uses a local running Bot and Discord image attachments to set and animate avatars.
 
+Download it over here: [Releases](https://github.com/OldVamp/SpriteChat/releases)
+
 # Program Window
 
 <img alt="Windows" src="Windows.png" />
