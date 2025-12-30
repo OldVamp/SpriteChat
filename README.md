@@ -7,12 +7,16 @@ An Overlay of Discord Voice Chat using Customizable Avatars for Streamers.
 
 # Avatar Examples
 
-Single Frame Avatar 1x1
+Single Frame Avatar, 1x1, Speaking
+
 (Darkened frame automatically generated)
+
 ![AnimatedExample1Frame](https://github.com/user-attachments/assets/1c9f7ea8-b8ff-4bd1-824f-8c0f3b55b11e)
 
-Two Frame Avatar 2x1
+Two Frame Avatar, 2x1, Idle, Speaking
+
 ![AnimatedExample2Frame](https://github.com/user-attachments/assets/b99eb089-1723-4d9a-bc56-a38aaf496418)
 
-Four Frame Avatar 4x1
+Four Frame Avatar, 4x1, Idle, Speaking 1, Blinking, Speaking 2
+
 ![AnimatedExample4Frame](https://github.com/user-attachments/assets/ab2e4aa6-3e39-4be2-a837-f02449e95f1c)
