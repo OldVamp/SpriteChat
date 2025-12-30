@@ -25,6 +25,10 @@ Four Frame Avatar, 4x1, Idle, Speaking 1, Blinking, Speaking 2
 
 <img alt="Chat Bubbles" src="ChatBubbleExample.png" />
 
+# Avatar Template
+
+<img alt="Avatar Template" src="2 or 4 frame template.png" />
+
 # OBS Setup 
 
 Window Capture with Color Key Effect Filter
