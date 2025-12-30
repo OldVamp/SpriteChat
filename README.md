@@ -1,6 +1,8 @@
 # SpriteChat
 An Overlay of Discord Voice Chat using Customizable Avatars for Streamers.
 
+It uses a local running Bot and Discord image attachments to set and animate avatars.
+
 # Program Window
 
 <img alt="Windows" src="Windows.png" />
@@ -15,7 +17,9 @@ Two Frame Avatar, 2x1, Idle, Speaking
 
 Four Frame Avatar, 4x1, Idle, Speaking 1, Blinking, Speaking 2
 
-<img alt="Discord Avatar" src="AnimatedExampleDiscord.gif" /> <img alt="One Frame Avatar" src="AnimatedExample1Frame.gif" /> <img alt="Two Frame Avatar" src="AnimatedExample2Frame.gif" /> <img alt="Four Frame Avatar" src="AnimatedExample4Frame.gif" />
+<img alt="Discord Avatar" src="AnimatedExampleDiscord.gif" />___<img alt="One Frame Avatar" src="AnimatedExample1Frame.gif" />
+
+<img alt="Two Frame Avatar" src="AnimatedExample2Frame.gif" />___<img alt="Four Frame Avatar" src="AnimatedExample4Frame.gif" />
 
 # Text Chat Bubbles
 
