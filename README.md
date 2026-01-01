@@ -7,6 +7,8 @@ Download it over here: [Releases](https://github.com/OldVamp/SpriteChat/releases
 
 # Program Window
 
+Tinted titlebar so the whole thing can be filtered out
+
 <img alt="Windows" src="Windows.png" />
 
 # Avatar Examples
