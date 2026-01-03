@@ -3,7 +3,7 @@ An Overlay of Discord Voice Chat using Customizable Avatars for Streamers.
 
 It uses a local running Bot and Discord image attachments to set and animate avatars.
 
-Download it over here: [Releases](https://github.com/OldVamp/SpriteChat/releases)
+Download it over here: https://github.com/OldVamp/SpriteChat/releases
 
 # Program Window
 
@@ -33,8 +33,22 @@ Four Frame Avatar, 4x1, Idle, Speaking 1, Blinking, Speaking 2
 
 <img alt="Avatar Template" src="2 or 4 frame template.png" />
 
+# Bot Setup
+
+You have to set up your own Discord Bot at https://discord.com/developers/applications
+
+<img alt="Setup Bot" src="Bot App Setup 1 Bot.png" />
+
+<img alt="Setup Install" src="Bot App Setup 2 Installation.png" />
+
+# Enable Developer Mode in Discord
+
+Under Settings
+
+<img alt="Dev Mode" src="Discord Setup.png" />
+
 # OBS Setup 
 
-Window Capture with Color Key Effect Filter
+Add a Window Capture of Sprite Chat to your Scene with Color Key Effect Filter
 
 <img alt="OBS Settings" src="obs filter settings.png" />
