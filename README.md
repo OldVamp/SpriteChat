@@ -35,6 +35,8 @@ Four Frame Avatar, 4x1, Idle, Speaking 1, Blinking, Speaking 2
 
 # Bot Setup
 
+Ensure you have .net 9 desktop installed https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime
+
 You have to set up your own Discord Bot at https://discord.com/developers/applications
 
 <img alt="Setup Bot" src="Bot App Setup 1 Bot.png" />
